@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lozyloze
+- 👋 Hi, I’m Simon
 - 👀 I’m interested in Economics, Philosophy, Human beings, Creating a better world
 - 🌱 I’m currently learning Python, Data Analysis, Statistics, how to play guitar
 
